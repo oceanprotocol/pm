@@ -1,1 +1,1 @@
-# Repository for project management related issues. 
+# Repository for product management related issues. 
